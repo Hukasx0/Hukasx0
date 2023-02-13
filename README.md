@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Hubert
+#### I code because I like it
+I am a young fan of computer science, cybersecurity and programming
 
-<!--
-**Hukasx0/Hukasx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Pentesting, Programming { Haskell / Assembly / JavaScript / Node.js / Python / Kotlin / HTML / CSS}
 
-Here are some ideas to get you started:
+[TryHackMe](https://tryhackme.com/p/Hukasx0)
+[HackTheBox](https://app.hackthebox.com/profile/696093)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hukasx0)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hukasx0)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hukasx0&show_icons=true)  
+
