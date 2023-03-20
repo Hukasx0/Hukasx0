@@ -1,5 +1,5 @@
 # 💫 About Me:
-I program out of passion and curiosity, for fun
+I am a young enthusiast of programming, computer science and cybersecurity, I love to create extraordinary projects to explore these areas with passion, interest and fun every day. I just do what I think is interesting, or/and useful in automating everyday tasks.
 
 
 ## 🌐 Socials:
