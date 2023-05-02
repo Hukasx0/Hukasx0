@@ -1,8 +1,6 @@
 # About me
 ### I am a young programmer who is mostly interested in: web development (Backend), cybersecurity and computer science concepts
 
-<br>
-
 ## Mostly familiar with
 <a href="https://www.rust-lang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40px" />
