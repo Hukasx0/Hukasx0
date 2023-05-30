@@ -48,11 +48,17 @@
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/l72z2dydduvghanfmvgz" width="40px" />
 </a>
 
+##
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hukasx0)
+
 <br><br>
 
 <details>
 <summary>statistics</summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Hukasx0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hukasx0&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hukasx0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </details>
