@@ -8,20 +8,28 @@
 <a href="https://www.haskell.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40px" />
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40px" />
+</a>
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40px" />
 </a>
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px" />
 </a>
-<a href="">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px" />
+<a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" />
 </a>
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" />
 </a>
 <a href="https://savannah.gnu.org/git/?group=bash">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40px" />
+</a>
+
+## Currently learning
+<a href="https://react.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" />
 </a>
 
 ## Tools I use
@@ -46,6 +54,9 @@
 </a>
 <a href="https://app.hackthebox.com/profile/696093">
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/l72z2dydduvghanfmvgz" width="40px" />
+</a>
+<a href="https://leetcode.com/Hukasx0/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" />
 </a>
 
 ##
