@@ -49,6 +49,12 @@
 <br>
 
 ## My socials
+<a href="https://misskey.gg/@Hukasx0">
+  <img src="https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png" width="40px" />
+</a>
+<a href="https://matrix.to/#/@hukasx0:matrix.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" width="35px" />
+</a>
 <a href="https://tryhackme.com/p/Hukasx0">
   <img src="https://assets.tryhackme.com/img/THMlogo.png" width="40px" />
 </a>
