@@ -1,5 +1,5 @@
 # About me
-### I am a young programmer who is mostly interested in: web development (Backend), cybersecurity and computer science concepts
+### I am a young programmer who is mostly interested in: web development (Fullstack), cybersecurity, artificial intelligence and computer science concepts
 
 ## Mostly familiar with
 <a href="https://www.rust-lang.org/">
@@ -20,6 +20,9 @@
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" />
 </a>
+<a href="https://go.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" />
+</a>
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" />
 </a>
@@ -27,10 +30,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40px" />
 </a>
 
-## Currently learning
+### Frameworks/Libraries
+
 <a href="https://react.dev/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" />
 </a>
+<a href="https://svelte.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40px" />
+</a>
+<a href="https://www.solidjs.com/">
+  <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" width="40px" />
+</a>
+<a href="https://vuejs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40px" />
+</a>
+<a href="https://actix.rs/">
+  <img src="https://actix.rs/img/logo.png" width="40px" />
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40px" />
+</a>
+<a href="https://flask.palletsprojects.com/en/2.3.x/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40px" />
+</a>
+
 
 ## Tools I use
 <a href="https://kernel.org/">
