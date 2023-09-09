@@ -54,6 +54,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40px" />
 </a>
 
+### Currently learning
+<a href="https://angular.io/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40px" />
+</a>
 
 ## Tools I use
 <a href="https://kernel.org/">
