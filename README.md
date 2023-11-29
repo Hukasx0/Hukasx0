@@ -5,6 +5,9 @@
 <a href="https://www.rust-lang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40px" />
 </a>
+<a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="35px" />
+</a>
 <a href="https://www.haskell.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40px" />
 </a>
@@ -14,6 +17,7 @@
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40px" />
 </a>
+<br />
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px" />
 </a>
@@ -35,28 +39,27 @@
 <a href="https://react.dev/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" />
 </a>
+<a href="https://angular.io/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40px" />
+</a>
 <a href="https://svelte.dev/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40px" />
 </a>
 <a href="https://www.solidjs.com/">
   <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" width="40px" />
 </a>
-<a href="https://vuejs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40px" />
-</a>
+<br />
 <a href="https://actix.rs/">
   <img src="https://actix.rs/img/logo.png" width="40px" />
+</a>
+<a href="https://learn.microsoft.com/pl-pl/dotnet/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40px" />
 </a>
 <a href="https://expressjs.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40px" />
 </a>
 <a href="https://flask.palletsprojects.com/en/2.3.x/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40px" />
-</a>
-
-### Currently learning
-<a href="https://angular.io/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40px" />
 </a>
 
 ## Tools I use
@@ -68,6 +71,9 @@
 </a>
 <a href="https://git-scm.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px" />
 </a>
 <a href="https://www.docker.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" />
@@ -91,10 +97,6 @@
 <a href="https://leetcode.com/Hukasx0/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" />
 </a>
-
-##
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hukasx0)
 
 <br><br>
 
