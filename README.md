@@ -5,7 +5,7 @@
 <a href="https://www.rust-lang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40px" />
 </a>
-<a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="35px" />
 </a>
 <a href="https://www.haskell.org/">
@@ -52,7 +52,7 @@
 <a href="https://actix.rs/">
   <img src="https://actix.rs/img/logo.png" width="40px" />
 </a>
-<a href="https://learn.microsoft.com/pl-pl/dotnet/">
+<a href="https://learn.microsoft.com/en-us/dotnet/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40px" />
 </a>
 <a href="https://expressjs.com/">
