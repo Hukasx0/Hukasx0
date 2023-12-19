@@ -83,7 +83,7 @@
 
 ## My socials
 <a href="https://misskey.gg/@Hukasx0">
-  <img src="https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png" width="40px" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Misskey-Dark.svg" width="40px" />
 </a>
 <a href="https://matrix.to/#/@hukasx0:matrix.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" width="35px" />
