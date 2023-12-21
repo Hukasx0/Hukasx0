@@ -97,6 +97,9 @@
 <a href="https://leetcode.com/Hukasx0/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" />
 </a>
+<a href="https://pypi.org/user/Hukasx0/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" width="40px" />
+</a>
 
 <br><br>
 
