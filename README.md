@@ -3,7 +3,7 @@
 
 ## Mostly familiar with
 <a href="https://www.rust-lang.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40px" />
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="35px" />
@@ -19,7 +19,7 @@
 </a>
 <br />
 <a href="https://nodejs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px" />
 </a>
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" />
