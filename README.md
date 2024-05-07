@@ -41,7 +41,13 @@ I am a young software engineer with expertise in designing, planning, and coding
 
 
 # 📊 GitHub Stats:
+
+<details>
+<summary>statistics</summary>
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hukasx0&theme=tokyonight&hide_border=false)<br/>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hukasx0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</details>
