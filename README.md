@@ -1,53 +1,110 @@
-# About me
-I am a young software engineer with expertise in designing, planning, and coding both front-end and back-end parts of applications. I excel at using multiple programming stacks to efficiently solve different complex problems.
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hubert%20Kasperek&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Hubert Kasperek" width="100%">
+  <h1>👋 Hi there, I'm Hubert "Hukasx0" Kasperek</h1>
+  <p>Full-Stack Developer | Owner of <a href="https://blitzyapp.com" target="_blank">BlitzyApp.com</a> | Open Source Developer</p>
+</div>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<!-- About Me Section -->
+## 🚀 About Me
 
+I'm a passionate full-stack developer with a love for modern web technologies. My journey in tech has led me to explore and master the T3 Stack, along with a variety of cutting-edge tools and frameworks.
 
+<!-- Skills Section -->
+## 🛠️ Skills & Technologies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hukasx0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-<br>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-## My socials
-<a href="https://misskey.gg/@Hukasx0">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Misskey-Dark.svg" width="40px" />
-</a>
-<a href="https://matrix.to/#/@hukasx0:matrix.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" width="35px" />
-</a>
-<a href="https://tryhackme.com/p/Hukasx0">
-  <img src="https://assets.tryhackme.com/img/THMlogo.png" width="40px" />
-</a>
-<a href="https://app.hackthebox.com/profile/696093">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5D8SpwQHj_6klw68wUP0lF-V5BEZAeooZe4HS7-Q1Ww&s" width="40px" />
-</a>
-<a href="https://leetcode.com/Hukasx0/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" />
-</a>
-<a href="https://pypi.org/user/Hukasx0/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" width="40px" />
-</a>
+### Backend
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
 
-<hr>
+### Databases
+![Turso DB](https://img.shields.io/badge/-Turso_DB-4A4A55?style=for-the-badge&logo=turso&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[My portfolio](https://hukasx0.github.io/portfolio/)
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[Personal website](https://hukasx0.github.io/)
+### Full-Stack
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
 
-[Contact](https://hukasx0.github.io/portfolio/contact/)
+### Other
+![OAuth2](https://img.shields.io/badge/-OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
 
+</div>
 
-# 📊 GitHub Stats:
+<!-- Projects Section -->
+## 🏗️ Featured Open Source Projects
 
-<details>
-<summary>statistics</summary>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hukasx0&theme=tokyonight&hide_border=false)<br/>
+<div align="center">
+  <a href="https://github.com/Hukasx0/character-factory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=character-factory&theme=radical" />
+  </a>
+  <a href="https://github.com/Hukasx0/todist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=todist&theme=radical" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/Hukasx0/ai-companion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=ai-companion&theme=radical" />
+  </a>
+ <a href="https://github.com/Hukasx0/aichar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=aichar&theme=radical" />
+  </a>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hukasx0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-</details>
+<div align="center">
+  <a href="https://github.com/Hukasx0/halm-assembler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=halm-assembler&theme=radical" />
+  </a>
+</div>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hukasx0&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Hukasx0's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hukasx0&theme=radical&hide_border=true" alt="Hukasx0's GitHub Streak" />
+</div>
+
+<br />
+
+<!-- Connect Section -->
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://hukasx0.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.producthunt.com/@hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+  <a href="https://tryhackme.com/p/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://app.hackthebox.com/profile/696093" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
+  <a href="https://leetcode.com/Hukasx0/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://misskey.gg/@Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Misskey-7C5CFF?style=for-the-badge&logo=misskey&logoColor=white" alt="Misskey" /></a>
+  <a href="https://pypi.org/user/Hukasx0/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+</div>
+
+<br />
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hukasx0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
