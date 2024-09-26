@@ -72,6 +72,18 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
   </a>
 </div>
 
+<!-- Closed Source Projects Section -->
+## 🔒 Closed Source Projects
+
+### Blitzy
+- **Description**: Fullstack SaaS application with no-code editor created to make idea validation way faster
+- **Website**: [https://blitzyapp.com](https://blitzyapp.com)
+
+### AssistlyApp
+- **Description**: Web app created during a 3-hour Hackathon ("Hacknarok") at ZSP2 Wągrowiec Highschool in 2024. Helps students manage and track their study notes in the cloud.
+- **Website**: [https://hacknarock-2024.pages.dev/](https://hacknarock-2024.pages.dev/)
+
+
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
