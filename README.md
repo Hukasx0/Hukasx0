@@ -7,8 +7,7 @@
 
 <!-- About Me Section -->
 ## 🚀 About Me
-
-I'm a passionate full-stack developer with a love for modern web technologies. My journey in tech has led me to explore and master the T3 Stack, along with a variety of cutting-edge tools and frameworks.
+I'm a passionate full-stack developer with a love for modern web technologies. My journey in tech has led me to explore and master the T3 Stack, along with a variety of cutting-edge tools and frameworks. I'm also proficient in C# and .NET, allowing me to build robust backend solutions and cross-platform applications. This diverse skill set enables me to create comprehensive, scalable solutions that span both frontend and backend technologies.
 
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
@@ -24,6 +23,8 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
 ### Backend
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases
 ![Turso DB](https://img.shields.io/badge/-Turso_DB-4A4A55?style=for-the-badge&logo=turso&logoColor=white)
