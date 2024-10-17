@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hubert%20Kasperek&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Hubert Kasperek" width="100%">
   <h1>👋 Hi there, I'm Hubert "Hukasx0" Kasperek</h1>
   <p>Full-Stack Developer | Owner of <a href="https://blitzyapp.com" target="_blank">BlitzyApp.com</a> | Open Source Developer</p>
+  <a href="https://hukasx0.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="View My Portfolio" />
+  </a>
 </div>
 
 <!-- About Me Section -->
