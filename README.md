@@ -19,13 +19,12 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend
-![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -40,12 +39,10 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Full-Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
-
-### Other
-![OAuth2](https://img.shields.io/badge/-OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
+### UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
