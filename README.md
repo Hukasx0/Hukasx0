@@ -71,8 +71,8 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
   <a href="https://github.com/Hukasx0/egzamin-inf04-rozwiazania">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=egzamin-inf04-rozwiazania&theme=radical" />
   </a>
-  <a href="https://github.com/Hukasx0/dotnet-angular-postgres-backup-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=dotnet-angular-postgres-backup-tool&theme=radical" />
+  <a href="https://github.com/Hukasx0/sharp-scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=sharp-scheduler&theme=radical" />
   </a>
 </div>
 
