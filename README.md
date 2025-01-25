@@ -10,7 +10,16 @@
 
 <!-- About Me Section -->
 ## 🚀 About Me
-I'm a passionate full-stack developer with a love for modern web technologies. My journey in tech has led me to explore and master the T3 Stack, along with a variety of cutting-edge tools and frameworks. I'm also proficient in C# and .NET, allowing me to build robust backend solutions and cross-platform applications. This diverse skill set enables me to create comprehensive, scalable solutions that span both frontend and backend technologies.
+
+Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform for rapid idea validation – while contributing to open source projects in my spare time.
+
+**What defines my work:**  
+- Bridging modern tech (Next.js, T3 Stack) with proven solutions (.NET, C#, React)  
+- Specializing in complete applications – from UI to server logic  
+- Prioritizing real-world usability  
+- Fearless problem-solver & experimenter:
+  - 🚀 Built [AssistlyApp](https://hacknarock-2024.pages.dev/) in 3 hours during a school hackathon
+  - 🛠️ Created [BlitzyApp](https://blitzyapp.com/) single-handedly - SaaS platform (design, architecture, development)
 
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
@@ -81,18 +90,6 @@ I'm a passionate full-stack developer with a love for modern web technologies. M
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=halm-assembler&theme=radical" />
   </a>
 </div>
-
-<!-- Closed Source Projects Section -->
-## 🔒 Closed Source Projects
-
-### Blitzy
-- **Description**: Fullstack SaaS application with no-code editor created to make idea validation way faster
-- **Website**: [https://blitzyapp.com](https://blitzyapp.com)
-
-### AssistlyApp
-- **Description**: Web app created during a 3-hour Hackathon ("Hacknarok") at ZSP2 Wągrowiec Highschool in 2024. Helps students manage and track their study notes in the cloud.
-- **Website**: [https://hacknarock-2024.pages.dev/](https://hacknarock-2024.pages.dev/)
-
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
