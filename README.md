@@ -14,12 +14,35 @@
 Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform for rapid idea validation – while contributing to open source projects in my spare time.
 
 **What defines my work:**  
-- Bridging modern tech (Next.js, T3 Stack) with proven solutions (.NET, C#, React)  
+- Bridging modern tech (Next.js, T3 Stack, Rust) with proven solutions (.NET, C#, React)  
 - Specializing in complete applications – from UI to server logic  
 - Prioritizing real-world usability  
-- Fearless problem-solver & experimenter:
-  - 🚀 Built [AssistlyApp](https://hacknarock-2024.pages.dev/) in 3 hours during a school hackathon
-  - 🛠️ Created [BlitzyApp](https://blitzyapp.com/) single-handedly - SaaS platform (design, architecture, development)
+- Fearless problem-solver & experimenter:  
+  - 🚀 Built [AssistlyApp](https://hacknarock-2024.pages.dev/) in 3 hours during a school hackathon  
+  - 🛠️ Created [BlitzyApp](https://blitzyapp.com/) single-handedly – SaaS platform (design, architecture, development)  
+  - 🤖 **Engineered [AI Companion](https://github.com/Hukasx0/ai-companion)** – End-to-end open-source backend and web ui for creating ai chatbots:  
+    - **Offline-first architecture**: Fully local execution (CPU/GPU), zero external API dependencies  
+    - **Model support**: .gguf models (Llama 2, Mistral) 
+    - **Hardware acceleration**: CUDA/Nvidia GPUs, Metal (Apple Silicon), OpenCL (AMD/Intel)  
+    - **Memory systems**:  
+      - Short-term + long-term
+      - Real-time conversation learning  
+    - **Advanced features**:  
+      - Roleplay actions via `*asterisk syntax*`  
+      - Time-aware responses (system clock integration)  
+      - Character cards (.json/.png) with {{user}}/{{char}} templating  
+    - **Deployment**: Single binary ≤26MB (Rust) with API and web ui built in
+
+  - 🎨 **Developed [Aichar](https://github.com/Hukasx0/aichar)** – Library that helps with creating, parsing and modifying character cards:  
+    - **Cross-platform**: created character cards work in TavernAI, SillyTavern, Pygmalion, AI Companion  
+    - **Universal**: Can be used to create character from scratch, read from .json file, .yaml file, can be used to load existing character and even to modify it
+    - **Performance**: Hybrid Python/Rust engine (faster processing)  
+    - **Downloads**: 738k+ peak PyPI downloads
+
+  - 🏭 **Designed [Character Factory](https://github.com/Hukasx0/character-factory)** – Full-stack AI characters studio:  
+    - **Generative pipeline**: Stable Diffusion (visuals) + LLM (descriptions)   
+    - **Web UI**: Intuitive interface for non-technical users 
+
 
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
@@ -36,6 +59,7 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
 ![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![Turso DB](https://img.shields.io/badge/-Turso_DB-4A4A55?style=for-the-badge&logo=turso&logoColor=white)
@@ -55,41 +79,6 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
 
 </div>
 
-<!-- Projects Section -->
-## 🏗️ Featured Open Source Projects
-
-<div align="center">
-  <a href="https://github.com/Hukasx0/character-factory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=character-factory&theme=radical" />
-  </a>
-  <a href="https://github.com/Hukasx0/todist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=todist&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Hukasx0/ai-companion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=ai-companion&theme=radical" />
-  </a>
- <a href="https://github.com/Hukasx0/aichar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=aichar&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Hukasx0/egzamin-inf04-rozwiazania">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=egzamin-inf04-rozwiazania&theme=radical" />
-  </a>
-  <a href="https://github.com/Hukasx0/sharp-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=sharp-scheduler&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Hukasx0/halm-assembler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hukasx0&repo=halm-assembler&theme=radical" />
-  </a>
-</div>
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
