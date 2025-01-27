@@ -11,7 +11,9 @@
 <!-- About Me Section -->
 ## 🚀 About Me
 
-Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform for rapid idea validation – while contributing to open source projects in my spare time.
+Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. 
+
+Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform for rapid idea validation – while contributing to open source projects in my spare time.
 
 **What defines my work:**  
 - Bridging modern tech (Next.js, T3 Stack, Rust) with proven solutions (.NET, C#, React)  
