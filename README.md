@@ -39,7 +39,7 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
     - **Cross-platform**: created character cards work in TavernAI, SillyTavern, Pygmalion, AI Companion  
     - **Universal**: Can be used to create character from scratch, read from .json file, .yaml file, can be used to load existing character and even to modify it
     - **Performance**: Hybrid Python/Rust engine (faster processing)  
-    - **Downloads**: 738k+ peak PyPI downloads
+    - **Downloads**: 750k+ PyPI downloads
 
   - 🏭 **Designed [Character Factory](https://github.com/Hukasx0/character-factory)** – Full-stack AI characters studio:  
     - **Generative pipeline**: Stable Diffusion (visuals) + LLM (descriptions)   
