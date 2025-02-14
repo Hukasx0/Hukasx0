@@ -21,7 +21,11 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 - Prioritizing real-world usability  
 - Fearless problem-solver & experimenter:  
   - 🚀 Built [AssistlyApp](https://hacknarock-2024.pages.dev/) in 3 hours during a school hackathon  
-  - 🛠️ Created [BlitzyApp](https://blitzyapp.com/) single-handedly – SaaS platform (design, architecture, development)  
+  - 🛠️ **Created [BlitzyApp](https://blitzyapp.com/) single-handedly – SaaS platform (design, architecture, development)**  
+    - **Tech Stack:** Built from scratch using T3 Stack, Next.js, React, tRPC, TypeScript, Tailwind CSS, and Turso database  
+    - **Key Features:** Implemented a visual editor, a robust authentication system, and seamless database integration  
+    - **Purpose & Impact:** Empowers startups to rapidly validate ideas by enabling no-code creation of basic website MVPs with built-in waitlist functionality—reducing time-to-market from weeks to hours  
+    - **Accessibility:** Offered as a freeware SaaS platform, completely free to use
   - 🤖 **Engineered [AI Companion](https://github.com/Hukasx0/ai-companion)** – End-to-end open-source backend and web ui for creating ai chatbots:  
     - **Offline-first architecture**: Fully local execution (CPU/GPU), zero external API dependencies  
     - **Model support**: .gguf models (Llama 2, Mistral) 
