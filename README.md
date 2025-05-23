@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hubert%20Kasperek&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Hubert Kasperek" width="100%">
   <h1>👋 Hi there, I'm Hubert "Hukasx0" Kasperek</h1>
   <p>Full-Stack web Developer | Owner of <a href="https://blitzyapp.com" target="_blank">BlitzyApp.com</a> | Open Source Developer</p>
-  <a href="https://hukasx0.github.io/portfolio" target="_blank">
+  <a href="https://hubertkasperek.com/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="View My Portfolio" />
   </a>
 </div>
@@ -100,7 +100,7 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://hukasx0.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hubertkasperek.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" /></a>
   <a href="https://twitter.com/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.producthunt.com/@hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
   <a href="https://tryhackme.com/p/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
