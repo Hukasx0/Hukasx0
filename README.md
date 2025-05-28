@@ -47,7 +47,15 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 
   - 🏭 **Designed [Character Factory](https://github.com/Hukasx0/character-factory)** – Full-stack AI characters studio:  
     - **Generative pipeline**: Stable Diffusion (visuals) + LLM (descriptions)   
-    - **Web UI**: Intuitive interface for non-technical users 
+    - **Web UI**: Intuitive interface for non-technical users
+   
+  - 🎬 **Built [Short Maker](https://github.com/Hukasx0/short-maker)** – Automated vertical video creation tool for content creators:  
+    - **Zero AI dependencies**: Pure Python + FFmpeg/ImageMagick implementation  
+    - **Professional features**: TTS narration, dynamic subtitles, audio mixing, smart cropping  
+    - **Creator-focused**: Perfect for streamlining short-form content workflows  
+    - **Cross-platform**: Automated setup scripts for Windows, Linux, macOS  
+    - **Dual interface**: GUI for beginners, CLI for advanced users  
+    - **Advanced effects**: Audio ducking, transition animations, multi-format support
 
 
 <!-- Skills Section -->
