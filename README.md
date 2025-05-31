@@ -13,8 +13,6 @@
 
 Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. 
 
-Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform for rapid idea validation – while contributing to open source projects in my spare time.
-
 **What defines my work:**  
 - Bridging modern tech (Next.js, T3 Stack, Rust) with proven solutions (.NET, C#, React)  
 - Specializing in complete applications – from UI to server logic  
@@ -65,11 +63,10 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -110,11 +107,10 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 <div align="center">
   <a href="https://hubertkasperek.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" /></a>
   <a href="https://twitter.com/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.producthunt.com/@hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+  <a href="https://www.linkedin.com/in/hubertkasperek/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://tryhackme.com/p/Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
   <a href="https://app.hackthebox.com/profile/696093" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
   <a href="https://leetcode.com/Hukasx0/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://misskey.gg/@Hukasx0" target="_blank"><img src="https://img.shields.io/badge/-Misskey-7C5CFF?style=for-the-badge&logo=misskey&logoColor=white" alt="Misskey" /></a>
   <a href="https://pypi.org/user/Hukasx0/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 </div>
 
@@ -129,4 +125,3 @@ Currently, I develop [BlitzyApp](https://blitzyapp.com) – a no-code platform f
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
