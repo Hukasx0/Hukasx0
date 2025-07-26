@@ -2,10 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hubert%20Kasperek&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Hubert Kasperek" width="100%">
   <h1>👋 Hi there, I'm Hubert "Hukasx0" Kasperek</h1>
-  <p>Full-Stack web Developer | Owner of <a href="https://blitzyapp.com" target="_blank">BlitzyApp.com</a> | Open Source Developer</p>
-  <a href="https://hubertkasperek.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="View My Portfolio" />
-  </a>
+  <p>Full-Stack web Developer
 </div>
 
 <!-- About Me Section -->
@@ -14,7 +11,7 @@
 Hi there! I'm Hubert, a full-stack web developer passionate about building practical solutions. 
 
 **What defines my work:**  
-- Bridging modern tech (Next.js, T3 Stack, Rust) with proven solutions (.NET, C#, React)  
+- Bridging modern tech (Next.js, T3 Stack, Rust) with proven solutions (React, TypeScript)  
 - Specializing in complete applications – from UI to server logic  
 - Prioritizing real-world usability  
 - Fearless problem-solver & experimenter:  
@@ -62,7 +59,6 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
 <div align="center">
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,18 +70,13 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
 ### Backend
 ![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?style=for-the-badge&logo=create-t3-app&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Turso DB](https://img.shields.io/badge/-Turso_DB-4A4A55?style=for-the-badge&logo=turso&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
