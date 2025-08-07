@@ -43,6 +43,19 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
   - 🏭 **Designed [Character Factory](https://github.com/Hukasx0/character-factory)** – Full-stack AI characters studio:  
     - **Generative pipeline**: Stable Diffusion (visuals) + LLM (descriptions)   
     - **Web UI**: Intuitive interface for non-technical users
+
+  - 🕊️ **Built [Gołąb](https://github.com/Hukasx0/golab)** – Secure contact form API service for static websites:  
+    - **Edge-first architecture**: Deployed on Cloudflare Workers global network for <50ms response times  
+    - **Enterprise security**: Multi-layer protection with WAF integration, API key auth, content filtering, and bot protection  
+    - **Developer experience**: Type-safe TypeScript, comprehensive test suite, <1MB optimized bundle  
+    - **Production ready**: Built with Hono framework, Resend email service, Zod validation  
+    - **Key features**:  
+      - CORS-ready API with flexible authentication  
+      - Auto-reply functionality with beautiful HTML templates (That you can customize!)
+      - Advanced email filtering (domain whitelist/blacklist, mail blacklist)  
+      - Real-time monitoring and error handling  
+    - **Tech Stack**: TypeScript, Hono, Cloudflare Workers, Resend API, Zod, Bun  
+    - **Impact**: Enables developers to add secure contact forms to static sites without backend complexity
    
   - 🎬 **Built [Short Maker](https://github.com/Hukasx0/short-maker)** – Automated vertical video creation tool for content creators:  
     - **Zero AI dependencies**: Pure Python + FFmpeg/ImageMagick implementation  
