@@ -45,8 +45,8 @@ Hi there! I'm Hubert, a full-stack web developer passionate about building pract
     - **Web UI**: Intuitive interface for non-technical users
 
   - 🕊️ **Built [Gołąb](https://github.com/Hukasx0/golab)** – Secure contact form API service for static websites:  
-    - **Edge-first architecture**: Deployed on Cloudflare Workers global network for <50ms response times  
-    - **Enterprise security**: Multi-layer protection with WAF integration, API key auth, content filtering, and bot protection  
+    - **Edge-first architecture**: Deployed on Cloudflare Workers global network
+    - **Enterprise security**: Multi-layer protection with WAF integration, API key auth, content filtering, rate limiting, and bot protection  
     - **Developer experience**: Type-safe TypeScript, comprehensive test suite, <1MB optimized bundle  
     - **Production ready**: Built with Hono framework, Resend email service, Zod validation  
     - **Key features**:  
